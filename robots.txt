@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://ishtiaque3nav.github.io/digital-future/sitemap.xml
